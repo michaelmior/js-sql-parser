@@ -1,6 +1,7 @@
 .idea/
 node_modules
 package-lock.json
+yarn.lock
 *.log
 *.swp
 dist/parser/sqlParser.js
